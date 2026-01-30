@@ -1,8 +1,4 @@
-](https://goreportcard.com/report/github.com/mszlu521/thunder)
-[![GoDoc](https://pkg.go.dev/badge/github.com/mszlu521/thunder)](https://pkg.go.dev/github.com/mszlu521/thunder)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
-Thunder is a fast and lightweight web framework built on top of Gin, designed to accelerate Go web application development. It provides out-of-the-box solutions for common requirements like authentication, cloud storage, database access, payment integration, and more.
+is a fast and lightweight web framework built on top of Gin, designed to accelerate Go web application development. It provides out-of-the-box solutions for common requirements like authentication, cloud storage, database access, payment integration, and more.
 
 ## Features
 
